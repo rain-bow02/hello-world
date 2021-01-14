@@ -1,3 +1,2 @@
 # hello-world
-repository
-add
+this is my first repository
